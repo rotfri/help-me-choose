@@ -40,8 +40,16 @@ input {
   padding: 10px 23px;
 }
 
-.goOption {
+.submit {
   border-radius: 30px;
   padding: 10px 23px;
   margin-bottom: 10px;
+}
+
+.resultSection {
+  height: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 35px;
 }
